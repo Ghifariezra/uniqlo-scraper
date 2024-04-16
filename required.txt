@@ -6,4 +6,3 @@ dateparser
 python-dotenv
 lxml
 selenium
-aiohttp
