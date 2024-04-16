@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+fake-useragent
+dateparser
+python-dotenv
+lxml
+selenium
+aiohttp
